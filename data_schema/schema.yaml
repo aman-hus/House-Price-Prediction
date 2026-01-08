@@ -1,0 +1,19 @@
+columns:
+  - id: int64
+  - area_sqft: int64
+  - bedrooms: int64
+  - bathrooms: int64
+  - age: int64
+  - location: int64
+  - price: int64
+  
+
+
+numerical_columns:
+  - id: int64
+  - area_sqft: int64
+  - bedrooms: int64
+  - bathrooms: int64
+  - age: int64
+  - location: int64
+  - price: int64
